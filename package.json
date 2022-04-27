@@ -1,7 +1,7 @@
 {
     "name": "tss",
     "version": "1.0.0",
-    "description": "uploaded tss website folder",
+    "description": "",
     "main": "index.js",
     "scripts": {
         "deploy": "gh-pages -d dist"
@@ -15,7 +15,7 @@
     "bugs": {
         "url": "https://github.com/japsimrans13/tss/issues"
     },
-    "homepage": "https://japsimrans13.github.io/tss/",
+    "homepage": "https://japsimrans13.github.io/tss",
     "dependencies": {
         "gh-pages": "^3.2.3"
     }
